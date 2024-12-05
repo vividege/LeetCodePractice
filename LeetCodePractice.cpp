@@ -3,11 +3,11 @@
 
 #include <iostream>
 #include "Chapter 2 Linear Table/RemoveDuplicateFromSortedArray.h"
-
+#include <vector>
 int main()
 {
     RemoveDuplicateFromSortedArray rm;
-    rm.solution1();
+    rm.test();
     std::cout << "Hello World!\n";
 }
 
