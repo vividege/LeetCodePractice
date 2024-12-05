@@ -19,11 +19,11 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="RemoveDuplicateFromSortedArray.h" />
+    <ClInclude Include="Chapter 2 Linear Table\RemoveDuplicateFromSortedArray.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Chapter 2 Linear Table\RemoveDuplicateFromSortedArray.cpp" />
     <ClCompile Include="LeetCodePractice.cpp" />
-    <ClCompile Include="RemoveDuplicateFromSortedArray.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

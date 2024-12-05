@@ -2,7 +2,7 @@
 //
 
 #include <iostream>
-#include "RemoveDuplicateFromSortedArray.h"
+#include "Chapter 2 Linear Table/RemoveDuplicateFromSortedArray.h"
 
 int main()
 {

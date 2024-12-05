@@ -16,18 +16,21 @@
     <Filter Include="Source Files\Chapter 2 Linear Table">
       <UniqueIdentifier>{7962dec2-faa1-47f2-ae36-398085a9c3c7}</UniqueIdentifier>
     </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="RemoveDuplicateFromSortedArray.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <Filter Include="Header Files\Chapter 2 Linear Table">
+      <UniqueIdentifier>{e9624db8-1fc5-406f-87ac-3613982fdc9a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="LeetCodePractice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RemoveDuplicateFromSortedArray.cpp">
+    <ClCompile Include="Chapter 2 Linear Table\RemoveDuplicateFromSortedArray.cpp">
       <Filter>Source Files\Chapter 2 Linear Table</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Chapter 2 Linear Table\RemoveDuplicateFromSortedArray.h">
+      <Filter>Header Files\Chapter 2 Linear Table</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
