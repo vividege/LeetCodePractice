@@ -4,14 +4,20 @@
 #include <iostream>
 #include "Chapter 2 Linear Table/RemoveDuplicateFromSortedArray.h"
 #include "Chapter 2 Linear Table/RemoveDuplicatesFromSortedArrayII.h"
+#include "Chapter 2 Linear Table/SearchInRotatedSortedArray.h"
 #include <vector>
 int main()
 {
     //RemoveDuplicateFromSortedArray rm;
     //rm.test();
 
-    RemoveDuplicatesFromSortedArrayII rm;
-    rm.test();
+    //RemoveDuplicatesFromSortedArrayII rm;
+    //rm.test();
+
+
+    SearchInRotatedSortedArray search;
+    search.test();
+
     std::cout << "Hello World!\n";
 }
 
