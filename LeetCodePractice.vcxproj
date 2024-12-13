@@ -22,11 +22,13 @@
     <ClInclude Include="Chapter 2 Linear Table\RemoveDuplicateFromSortedArray.h" />
     <ClInclude Include="Chapter 2 Linear Table\RemoveDuplicatesFromSortedArrayII.h" />
     <ClInclude Include="Chapter 2 Linear Table\SearchInRotatedSortedArray.h" />
+    <ClInclude Include="Chapter 2 Linear Table\SearchInRotatedSortedArrayII.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Chapter 2 Linear Table\RemoveDuplicateFromSortedArray.cpp" />
     <ClCompile Include="Chapter 2 Linear Table\RemoveDuplicatesFromSortedArrayII.cpp" />
     <ClCompile Include="Chapter 2 Linear Table\SearchInRotatedSortedArray.cpp" />
+    <ClCompile Include="Chapter 2 Linear Table\SearchInRotatedSortedArrayII.cpp" />
     <ClCompile Include="LeetCodePractice.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

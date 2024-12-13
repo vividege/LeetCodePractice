@@ -5,6 +5,7 @@
 #include "Chapter 2 Linear Table/RemoveDuplicateFromSortedArray.h"
 #include "Chapter 2 Linear Table/RemoveDuplicatesFromSortedArrayII.h"
 #include "Chapter 2 Linear Table/SearchInRotatedSortedArray.h"
+#include "Chapter 2 Linear Table/SearchInRotatedSortedArrayII.h"
 #include <vector>
 int main()
 {
@@ -15,7 +16,8 @@ int main()
     //rm.test();
 
 
-    SearchInRotatedSortedArray search;
+   // SearchInRotatedSortedArray search;
+    SearchInRotatedSortedArrayII search;
     search.test();
 
     std::cout << "Hello World!\n";

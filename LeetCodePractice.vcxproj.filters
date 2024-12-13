@@ -33,6 +33,9 @@
     <ClCompile Include="Chapter 2 Linear Table\SearchInRotatedSortedArray.cpp">
       <Filter>Source Files\Chapter 2 Linear Table</Filter>
     </ClCompile>
+    <ClCompile Include="Chapter 2 Linear Table\SearchInRotatedSortedArrayII.cpp">
+      <Filter>Source Files\Chapter 2 Linear Table</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Chapter 2 Linear Table\RemoveDuplicateFromSortedArray.h">
@@ -43,6 +46,9 @@
     </ClInclude>
     <ClInclude Include="Chapter 2 Linear Table\SearchInRotatedSortedArray.h">
       <Filter>Header Files\Chapter 2 Linear Table</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2 Linear Table\SearchInRotatedSortedArrayII.h">
+      <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>
