@@ -6,6 +6,7 @@
 #include "Chapter 2 Linear Table/RemoveDuplicatesFromSortedArrayII.h"
 #include "Chapter 2 Linear Table/SearchInRotatedSortedArray.h"
 #include "Chapter 2 Linear Table/SearchInRotatedSortedArrayII.h"
+#include "Chapter 2 Linear Table/MedianOfTwoSortedArray.h"
 #include <vector>
 int main()
 {
@@ -17,8 +18,10 @@ int main()
 
 
    // SearchInRotatedSortedArray search;
-    SearchInRotatedSortedArrayII search;
-    search.test();
+   // SearchInRotatedSortedArrayII search;
+   // search.test();
+    MedianOfTwoSortedArray find;
+    find.test();
 
     std::cout << "Hello World!\n";
 }
